@@ -1,0 +1,134 @@
+[
+  {
+    "player_id": 1,
+    "player_img": "https://i.ibb.co.com/9kByt9rb/1.jpg",
+    "player_name": "Virat Kohli",
+    "player_country": "India",
+    "playing_role": "Batsman",
+    "rating": 9.5,
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "price": 21.0
+  },
+  {
+    "player_id": 2,
+    "player_img": "https://i.ibb.co.com/KxKTSskb/2.jpg",
+    "player_name": "MS Dhoni",
+    "player_country": "India",
+    "playing_role": "Wicketkeeper Batsman",
+    "rating": 9.2,
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "price": 12.0
+  },
+  {
+    "player_id": 3,
+    "player_img": "https://i.ibb.co.com/qYwLKx70/3.jpg",
+    "player_name": "AB de Villiers",
+    "player_country": "South Africa",
+    "playing_role": "Batsman",
+    "rating": 9.3,
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "price": 11.0
+  },
+  {
+    "player_id": 4,
+    "player_img": "https://i.ibb.co.com/PsW65B89/4.jpg",
+    "player_name": "Andre Russell",
+    "player_country": "West Indies",
+    "playing_role": "All-Rounder",
+    "rating": 9.1,
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "price": 12.0
+  },
+  {
+    "player_id": 5,
+    "player_img": "https://i.ibb.co.com/DDzzD07V/5.webp",
+    "player_name": "Jasprit Bumrah",
+    "player_country": "India",
+    "playing_role": "Bowler",
+    "rating": 9.4,
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "price": 18.0
+  },
+  {
+    "player_id": 6,
+    "player_img": "https://i.ibb.co.com/h1Jc4YFH/6.jpg",
+    "player_name": "Ben Stokes",
+    "player_country": "England",
+    "playing_role": "All-Rounder",
+    "rating": 8.9,
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "price": 16.25
+  },
+  {
+    "player_id": 7,
+    "player_img": "https://i.ibb.co.com/HfVmFNDP/7.jpg",
+    "player_name": "Rashid Khan",
+    "player_country": "Afghanistan",
+    "playing_role": "Bowler",
+    "rating": 9.0,
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg-spin",
+    "price": 18.0
+  },
+  {
+    "player_id": 8,
+    "player_img": "https://i.ibb.co.com/Kpm9W4Zy/8.jpg",
+    "player_name": "David Warner",
+    "player_country": "Australia",
+    "playing_role": "Batsman",
+    "rating": 8.8,
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg-break",
+    "price": 0.0
+  },
+  {
+    "player_id": 9,
+    "player_img": "https://i.ibb.co.com/LdgDMK5p/9.jpg",
+    "player_name": "KL Rahul",
+    "player_country": "India",
+    "playing_role": "Batsman",
+    "rating": 8.7,
+    "batting_style": "Right-handed",
+    "bowling_style": "Undisclosed",
+    "price": 14.0
+  },
+  {
+    "player_id": 10,
+    "player_img": "https://i.ibb.co.com/s9rq2dd2/10.jpg",
+    "player_name": "Hardik Pandya",
+    "player_country": "India",
+    "playing_role": "All-Rounder",
+    "rating": 8.9,
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "price": 16.35
+  },
+  {
+    "player_id": 11,
+    "player_img": "https://i.ibb.co.com/C5vV9Z6X/11.jpg",
+    "player_name": "Sunil Narine",
+    "player_country": "West Indies",
+    "playing_role": "All-Rounder",
+    "rating": 8.6,
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off-break",
+    "price": 12.0
+  },
+  {
+    "player_id": 12,
+    "player_img": "https://i.ibb.co.com/qYcXQdgK/12.jpg",
+    "player_name": "Steve Smith",
+    "player_country": "Australia",
+    "playing_role": "Batsman",
+    "rating": 8.5,
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg-break",
+    "price": 0.0
+  }
+]
