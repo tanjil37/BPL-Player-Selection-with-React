@@ -2,12 +2,19 @@ import React, { useState } from "react";
 import userImg from "../../assets/user.png";
 import flag from "../../assets/flag.png";
 
+
 const PlayerCard = ({availableBlance, player, SetAvailableBlance, purchesedPlayer, setPurchesedPlayer}) => {
   const [isSelected, setIsSelected] = useState(false);
   const handleSelected = (playerData) => {
     const playerPrice = parseInt(playerData.price)
     if(availableBlance<playerPrice){
         alert("Not enough coins!!")
+        console.log("not enou conin");
+        return
+    }
+     
+    if(purchesedPlayer.length===6){
+        alert("6 players already selected!")
         return
     }
    
@@ -16,6 +23,7 @@ const PlayerCard = ({availableBlance, player, SetAvailableBlance, purchesedPlaye
       availableBlance - playerPrice
     ); 
     setPurchesedPlayer([...purchesedPlayer, playerData])
+     alert("Player purchased!")
    
   };
 
