@@ -2,7 +2,7 @@ import React, { use } from "react";
 
 import PlayerCard from "../PlayerCard/PlayerCard";
 
-const AvailablePlayers = ({availableBlance, playerPromise, SetAvailableBlance }) => {
+const AvailablePlayers = ({availableBlance, playerPromise, SetAvailableBlance, purchesedPlayer, setPurchesedPlayer }) => {
   const playersData = use(playerPromise);
   //console.log(playersData);
 
@@ -12,7 +12,7 @@ const AvailablePlayers = ({availableBlance, playerPromise, SetAvailableBlance })
 
 
       {playersData.map(player => (
-        <PlayerCard availableBlance={availableBlance} player={player} SetAvailableBlance={SetAvailableBlance}></PlayerCard>
+        <PlayerCard availableBlance={availableBlance} player={player} SetAvailableBlance={SetAvailableBlance} purchesedPlayer={purchesedPlayer} setPurchesedPlayer={setPurchesedPlayer}></PlayerCard>
        
       ))}
     </div>

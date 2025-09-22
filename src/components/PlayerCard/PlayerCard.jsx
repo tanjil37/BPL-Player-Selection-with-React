@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import userImg from "../../assets/user.png";
 import flag from "../../assets/flag.png";
 
-const PlayerCard = ({availableBlance, player, SetAvailableBlance}) => {
+const PlayerCard = ({availableBlance, player, SetAvailableBlance, purchesedPlayer, setPurchesedPlayer}) => {
   const [isSelected, setIsSelected] = useState(false);
   const handleSelected = (playerData) => {
     const playerPrice = parseInt(playerData.price)
@@ -15,6 +15,7 @@ const PlayerCard = ({availableBlance, player, SetAvailableBlance}) => {
     SetAvailableBlance(
       availableBlance - playerPrice
     ); 
+    setPurchesedPlayer([...purchesedPlayer, playerData])
    
   };
 
