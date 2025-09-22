@@ -8,18 +8,18 @@
     "rating": 9.5,
     "batting_style": "Right-handed",
     "bowling_style": "Right-arm medium",
-    "price": 21.0
+    "price": 21000
   },
   {
     "player_id": 2,
-    "player_img": "https://i.ibb.co.com/KxKTSskb/2.jpg",
+    "player_img": "https://i.ibb.co.com/RG9Y3y1X/2.jpg",
     "player_name": "MS Dhoni",
     "player_country": "India",
     "playing_role": "Wicketkeeper Batsman",
     "rating": 9.2,
     "batting_style": "Right-handed",
     "bowling_style": "Right-arm medium",
-    "price": 12.0
+    "price": 450000
   },
   {
     "player_id": 3,
@@ -30,7 +30,7 @@
     "rating": 9.3,
     "batting_style": "Right-handed",
     "bowling_style": "Right-arm medium",
-    "price": 11.0
+    "price": 50000
   },
   {
     "player_id": 4,
@@ -41,18 +41,18 @@
     "rating": 9.1,
     "batting_style": "Right-handed",
     "bowling_style": "Right-arm fast",
-    "price": 12.0
+    "price": 62000
   },
   {
     "player_id": 5,
-    "player_img": "https://i.ibb.co.com/DDzzD07V/5.webp",
+    "player_img": "https://i.ibb.co.com/KjyDGDwb/5.jpg",
     "player_name": "Jasprit Bumrah",
     "player_country": "India",
     "playing_role": "Bowler",
     "rating": 9.4,
     "batting_style": "Right-handed",
     "bowling_style": "Right-arm fast",
-    "price": 18.0
+    "price": 270000
   },
   {
     "player_id": 6,
@@ -63,7 +63,7 @@
     "rating": 8.9,
     "batting_style": "Left-handed",
     "bowling_style": "Right-arm fast-medium",
-    "price": 16.25
+    "price": 56000
   },
   {
     "player_id": 7,
@@ -74,7 +74,7 @@
     "rating": 9.0,
     "batting_style": "Right-handed",
     "bowling_style": "Right-arm leg-spin",
-    "price": 18.0
+    "price": 143000
   },
   {
     "player_id": 8,
@@ -85,7 +85,7 @@
     "rating": 8.8,
     "batting_style": "Left-handed",
     "bowling_style": "Right-arm leg-break",
-    "price": 0.0
+    "price": 345000
   },
   {
     "player_id": 9,
@@ -96,7 +96,7 @@
     "rating": 8.7,
     "batting_style": "Right-handed",
     "bowling_style": "Undisclosed",
-    "price": 14.0
+    "price": 455000
   },
   {
     "player_id": 10,
@@ -107,7 +107,7 @@
     "rating": 8.9,
     "batting_style": "Right-handed",
     "bowling_style": "Right-arm fast-medium",
-    "price": 16.35
+    "price": 34000
   },
   {
     "player_id": 11,
@@ -118,7 +118,7 @@
     "rating": 8.6,
     "batting_style": "Left-handed",
     "bowling_style": "Right-arm off-break",
-    "price": 12.0
+    "price": 234000
   },
   {
     "player_id": 12,
@@ -129,6 +129,6 @@
     "rating": 8.5,
     "batting_style": "Right-handed",
     "bowling_style": "Right-arm leg-break",
-    "price": 0.0
+    "price": 454000
   }
 ]

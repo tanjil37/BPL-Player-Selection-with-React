@@ -1,7 +1,7 @@
 import React from 'react';
 import doller from "../../assets/dollar-1.png";
 import logo from "../../assets/logo.png";
-const Navbar = () => {
+const Navbar = ({availableBlance}) => {
     return (
        <div className="navbar w-11/12 mx-auto">
         <div className="navbar-start">
@@ -62,7 +62,7 @@ const Navbar = () => {
             <li>
               <a className="btn">
              
-                <span>1000000000</span>
+                <span>{availableBlance}</span>
                 <span>Coin</span>
                 <img src={doller} alt="" />
               </a>
